@@ -2,7 +2,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joyjk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joyjk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/joy.karmakar.7946)  
 ### Hi there 👋, this is Joy
 #### Software Engineer | C# | .NET Core | MS SQL | PostgreSQL | Typescript | Microservice | Docker | Kubernetes | System Design
-[I am Software Engineer]
+I am a Software Engineer
 
 Highly skilled and motivated Developer with over 2 years of experience in building high-quality, scalable, large-scale complex systems using Microsoft .NET,C#,ASP.NET Core and SQL. Adept at developing cloud-native applications and services, particularly on the Azure platform. Proven expertise in web application development, with hands-on experience using JavaScript. Strong focus on quality control, continuous learning, self-improvement and the ability to quickly grab new technology. Effective communicator with a keen understanding of user needs and a commitment to delivering scalable, high-load, and cloud-native solutions.
 
