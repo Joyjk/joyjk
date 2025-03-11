@@ -22,8 +22,4 @@ Skills: C# | .NET Core | SQL | Angular, Typescript, | Unit Testing | Problem Sol
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joyjk)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joyjk)  
-
 
